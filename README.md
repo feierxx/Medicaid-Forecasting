@@ -3,6 +3,14 @@
 
 This project is designed to forecast Medicaid enrollment and expenditure for the next decade, both nationwide and specifically for Illinois. The forecasts will be conducted using comprehensive data analyses, and the final outcomes will be presented in a visualization dashboard to facilitate clear and effective data interpretation.
 
+## Outcome
+### Script:
+The analysis and forecasting code for Medicaid Expenditure and Enrollment are uploaded as expenditure.ipynb and enrollment.ipynb respectively.
+
+### Visualization Dashboard
+**Expenditure Dashborad:** [https://mmiscloud.us/s/@feierx/layout/](https://mmiscloud.us/s/@feierx/medicaid-enrollment-layout/)
+**Enrollment Dashboard:** [https://mmiscloud.us/s/@feierx/layout/](https://mmiscloud.us/s/@feierx/medicaid-enrollment-layout/)
+
 ## Data Source
 ### Medicaid Expenditure
 **State-wise Expenditure**
