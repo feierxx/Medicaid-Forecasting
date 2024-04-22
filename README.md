@@ -8,14 +8,16 @@ This project is designed to forecast Medicaid enrollment and expenditure for the
 The analysis and forecasting code for Medicaid Expenditure and Enrollment are uploaded as expenditure.ipynb and enrollment.ipynb respectively.
 
 ### Visualization Dashboard
+
 **Expenditure Dashborad:** [https://mmiscloud.us/s/@feierx/layout/](https://mmiscloud.us/s/@feierx/medicaid-enrollment-layout/)
+
 **Enrollment Dashboard:** [https://mmiscloud.us/s/@feierx/layout/](https://mmiscloud.us/s/@feierx/medicaid-enrollment-layout/)
 
 ## Data Source
 ### Medicaid Expenditure
 **State-wise Expenditure**
 
-State-wise expenditure data is sourced from the U.S. Department of Health and Human Services to ensure reliability ([MFCU](https://oig.hhs.gov/fraud/medicaid-fraud-control-units-mfcu/)). This data, available in the Expenditure & Statistics section, covers expenditures from all 50 states starting from 2010. It is primarily used for expenditure forecasting in Illinois and for visualization analysis. The cleansed data has already been uploaded [cleanead expenditure data by state](/Medicaid-Forecasting/by_state.csv].
+State-wise expenditure data is sourced from the U.S. Department of Health and Human Services to ensure reliability ([MFCU](https://oig.hhs.gov/fraud/medicaid-fraud-control-units-mfcu/)). This data, available in the Expenditure & Statistics section, covers expenditures from all 50 states starting from 2010. It is primarily used for expenditure forecasting in Illinois and for visualization analysis. The cleansed data has already been uploaded [cleanead expenditure data by state](/Medicaid-Forecasting/by_state.csv).
 
 **Total Expenditure** 
 
