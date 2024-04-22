@@ -15,7 +15,7 @@ The analysis and forecasting code for Medicaid Expenditure and Enrollment are up
 ### Medicaid Expenditure
 **State-wise Expenditure**
 
-State-wise expenditure data is sourced from the U.S. Department of Health and Human Services to ensure reliability ([MFCU](https://oig.hhs.gov/fraud/medicaid-fraud-control-units-mfcu/)). This data, available in the Expenditure & Statistics section, covers expenditures from all 50 states starting from 2010. It is primarily used for expenditure forecasting in Illinois and for visualization analysis. The cleansed data has already been uploaded.
+State-wise expenditure data is sourced from the U.S. Department of Health and Human Services to ensure reliability ([MFCU](https://oig.hhs.gov/fraud/medicaid-fraud-control-units-mfcu/)). This data, available in the Expenditure & Statistics section, covers expenditures from all 50 states starting from 2010. It is primarily used for expenditure forecasting in Illinois and for visualization analysis. The cleansed data has already been uploaded [cleanead expenditure data by state](/Medicaid-Forecasting/by_state.csv].
 
 **Total Expenditure** 
 
