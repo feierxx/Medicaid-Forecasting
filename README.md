@@ -7,6 +7,13 @@ This project is designed to forecast Medicaid enrollment and expenditure for the
 ### Script:
 The analysis and forecasting code for Medicaid Expenditure and Enrollment are uploaded as expenditure.ipynb and enrollment.ipynb respectively.
 
+[enrollment.ipynb](enrollment.ipynb): Forecasting the number of Medicaid enrollment. It follows the process of loading and cleaing the [raw data](statistic_id245347_total-medicaid-enrollment-1966-2022.xlsx) for the national enrollment, trancating the data, fitting the prophet model, and making 10-year prediction. Then it moves on to the IL state enrollemnt prediction with the same steps with the [state data](IL_enrollment.csv).
+
+[expenditure.ipynb](expenditure.ipynb): The process is the same as enrollment forecasting process. The data used for national forecasting is [medicaid_spending_usafacts.csv](medicaid_spending_usafacts.csv) while the state data is the excel files uploaded with the format "fy20xx-statistical-chart.xlsx".
+
+[enrollment_modeltrials.ipynb](enrollment_modeltrials.ipynb) and [expenditure_modeltrials.ipynb](expenditure_modeltrials.ipynb): These two files contains the process of additional trials of time series model, including Holt-Winter Exponential Average and ARIMA models. It starts with data processing and splitting, then move on to exploratory data analysis, multiple model training, model evaluation and final forecasting visualization. The data used in this two scripts are the same as previous.
+
+
 ### Visualization Dashboard
 
 **Expenditure Dashborad:** https://mmiscloud.us/s/@feierx/expenditure-layout/
